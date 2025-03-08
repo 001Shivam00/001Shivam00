@@ -1,12 +1,12 @@
-- 👋 Hi, I’m @001Shivam00
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+```md
+# 👋 Hi, I’m Shivam!  
 
-<!---
-001Shivam00/001Shivam00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 Interested in **AI, Machine Learning, and Data Analytics**  
+- 🌱 Currently learning **Generative AI and Data Analytics**  
+- 💞️ Open to collaborating on **AI and tech projects**  
+- 📫 Reach me at **[Your Email] | [Your LinkedIn]**  
+- 😄 Pronouns: **He/Him**  
+- ⚡ Fun fact: **I enjoy exploring new technologies and finding smart solutions to everyday problems!**  
+
+🚀 Always learning and exploring new tech!  
+``` 
